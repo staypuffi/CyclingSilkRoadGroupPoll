@@ -7,5 +7,3 @@ markdown: kramdown
 
 plugins:
   - jekyll-include-cache
-
-theme: null
