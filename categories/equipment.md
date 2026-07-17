@@ -1,9 +1,12 @@
 
-![Bekki snowmts](/images/Bekki_snowmts.png)
+
 
 ---
 layout: single
 title: "Bags, Luggage & Other Equipment"
+header:
+  overlay_image: /images/Bekki_snowmts.png
+  overlay_filter: 0.3
 permalink: /categories/equipment/
 ---
 
