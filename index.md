@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: false
+title: "Cycling Survey Results"
 ---
 
 # Long-distance Cycling Survey Results
