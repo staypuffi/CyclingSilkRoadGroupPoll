@@ -4,8 +4,6 @@
 ---
 layout: single
 title: "Bags, Luggage & Other Equipment"
-header:
-  image: /images/Bekki_snowmts.png
 ---
 
 This section summarizes the equipment choices of participants.
