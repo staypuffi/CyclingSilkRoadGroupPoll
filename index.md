@@ -1,0 +1,15 @@
+---
+layout: home
+author_profile: false
+---
+
+# Long-distance Cycling Survey Results
+
+This website presents anonymized results from a survey conducted among
+long-distance bicycle tourists travelling along the Silk Road.
+
+## Categories
+
+- [Demographics](demographics/)
+- [Equipment](equipment/)
+- [Costs](costs/)
