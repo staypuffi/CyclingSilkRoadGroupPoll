@@ -11,5 +11,5 @@ long-distance bicycle tourists travelling along the Silk Road.
 ## Categories
 
 - [Demographics](demographics/)
-- [Equipment](equipment/)
+- [Equipment](categories/equipment)
 - [Costs](costs/)
