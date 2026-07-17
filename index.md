@@ -10,6 +10,6 @@ long-distance bicycle tourists travelling along the Silk Road.
 
 ## Categories
 
-- [Demographics](demographics/)
-- [Equipment](categories/equipment)
-- [Costs](costs/)
+- [Demographics](categories/demographics/)
+- [Bags, Luggage & Other Equipment](categories/equipment/)
+- [Costs](categories/costs/)
