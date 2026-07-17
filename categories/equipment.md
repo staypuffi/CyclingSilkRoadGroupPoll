@@ -4,7 +4,7 @@ title: "Bags, Luggage & Other Equipment"
 permalink: /categories/equipment/
 ---
 
-![Equipment overview](/CyclingSilkRoadGroupPoll/images/Bekki_snowmts.png)
+![Equipment overview](/images/Bekki_snowmts.png)
 
 This section summarizes the equipment choices of participants.
 We investigated bicycle types, luggage systems, camping gear,
