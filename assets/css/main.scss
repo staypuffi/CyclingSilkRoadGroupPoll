@@ -4,27 +4,26 @@
 @import "minimal-mistakes";
 
 body {
-  background-color: #f5f0e6;   /* cream background */
+  background-color: #f5f0e6;
 }
 
-/* Keep the main content area white */
+/* Main content area */
 .page {
   background-color: white;
   padding: 30px;
   border-radius: 8px;
 }
 
-/* White boxes around images */
-img {
+/* Text content */
+.page__content {
+  background-color: white;
+}
+
+/* Images in white boxes */
+.page__content img {
   background-color: white;
   padding: 15px;
   border-radius: 8px;
   display: block;
   margin: 20px auto;
-}
-
-/* Optional: make text blocks look like cards */
-.archive__item,
-.page__content {
-  background-color: white;
 }
