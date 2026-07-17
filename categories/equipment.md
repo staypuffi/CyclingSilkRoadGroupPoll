@@ -4,7 +4,6 @@
 ---
 layout: single
 title: "Bags, Luggage & Other Equipment"
-permalink: /categories/equipment/
 ---
 
 This section summarizes the equipment choices of participants.
