@@ -20,7 +20,7 @@ Another group had lighter setups around **35 kg**.
 The lightest setup was **18 kg**, while the heaviest was **70 kg**.
 
 
-![Bike and luggage weight](/CyclingSilkRoadGroupPoll/images/bikebags_weight_plot.png)
+![Bike and luggage weight](/images/bikebags_weight_plot.png)
 
 
 ---
@@ -34,4 +34,4 @@ approximately **3 kg**.
 
 However, weight had only a minor influence on speed.
 
-![Weight and cycling speed](/CyclingSilkRoadGroupPoll/images/bikebags_daysandkm_plot.png)
+![Weight and cycling speed](/images/bikebags_daysandkm_plot.png)
