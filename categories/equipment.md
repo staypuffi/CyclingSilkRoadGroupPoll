@@ -1,10 +1,12 @@
 ---
 layout: single
-title: "Bags, Luggage & Other Equipment"
+title: ""
 permalink: /categories/equipment/
 ---
 
 ![Equipment overview](/images/Bekki_snowmts.png)
+
+## Bags, Luggage & Other Equipment
 
 This section summarizes the equipment choices of participants.
 We investigated bicycle types, luggage systems, camping gear,
