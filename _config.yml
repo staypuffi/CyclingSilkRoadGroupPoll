@@ -8,6 +8,4 @@ markdown: kramdown
 plugins:
   - jekyll-include-cache
 
-collections:
-  pages:
-    output: true
+theme: null
