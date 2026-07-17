@@ -1,0 +1,13 @@
+remote_theme: mmistakes/minimal-mistakes
+
+title: "Cycling Survey Results"
+description: "Anonymized results from a survey of long-distance bicycle tourists"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-include-cache
+
+collections:
+  pages:
+    output: true
